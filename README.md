@@ -1,38 +1,38 @@
-**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
+**[[提交教程](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
 
-# ![Build your own X](feynman.png)
+# ![建造你自己的...](feynman.png)
 
-## Table of contents
+## 目录
 
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Augmented Reality](#build-your-own-augmented-reality)
-* [BitTorrent Client](#build-your-own-bittorrent-client)
-* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
-* [Bot](#build-your-own-bot)
-* [Command-Line Tool](#build-your-own-command-line-tool)
-* [Database](#build-your-own-database)
+* [3D渲染](#build-your-own-3d-renderer)
+* [增强现实](#build-your-own-augmented-reality)
+* [比特流客户端](#build-your-own-bittorrent-client)
+* [区块链/加密货币](#build-your-own-blockchain--cryptocurrency)
+* [机器人](#build-your-own-bot)
+* [命令行工具](#build-your-own-command-line-tool)
+* [数据库](#build-your-own-database)
 * [Docker](#build-your-own-docker)
-* [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
-* [Front-end Framework / Library](#build-your-own-front-end-framework--library)
-* [Game](#build-your-own-game)
+* [仿真/虚拟机器](#build-your-own-emulator--virtual-machine)
+* [前端框架/库](#build-your-own-front-end-framework--library)
+* [游戏](#build-your-own-game)
 * [Git](#build-your-own-git)
-* [Network Stack](#build-your-own-network-stack)
-* [Neural Network](#build-your-own-neural-network)
-* [Operating System](#build-your-own-operating-system)
-* [Physics Engine](#build-your-own-physics-engine)
-* [Programming Language](#build-your-own-programming-language)
-* [Regex Engine](#build-your-own-regex-engine)
-* [Search Engine](#build-your-own-search-engine)
-* [Shell](#build-your-own-shell)
-* [Template Engine](#build-your-own-template-engine)
-* [Text Editor](#build-your-own-text-editor)
-* [Visual Recognition System](#build-your-own-visual-recognition-system)
-* [Voxel Engine](#build-your-own-voxel-engine)
-* [Web Search Engine](#build-your-own-web-search-engine)
-* [Web Server](#build-your-own-web-server)
-* [Uncategorized](#uncategorized)
+* [网络堆栈](#build-your-own-network-stack)
+* [神经网络](#build-your-own-neural-network)
+* [操作系统](#build-your-own-operating-system)
+* [物理引擎](#build-your-own-physics-engine)
+* [程序语言](#build-your-own-programming-language)
+* [正则引擎](#build-your-own-regex-engine)
+* [搜索引擎](#build-your-own-search-engine)
+* [框架](#build-your-own-shell)
+* [模板引擎](#build-your-own-template-engine)
+* [文本编辑器](#build-your-own-text-editor)
+* [视觉识别系统](#build-your-own-visual-recognition-system)
+* [像素引擎](#build-your-own-voxel-engine)
+* [网络搜索引擎](#build-your-own-web-search-engine)
+* [服务器](#build-your-own-web-server)
+* [未分类](#uncategorized)
 
-## Tutorials
+## 教程
 
 #### Build your own `3D Renderer`
 
